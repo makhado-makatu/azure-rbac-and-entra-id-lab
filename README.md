@@ -1,0 +1,1 @@
+# azure-rbac-and-entra-id-lab
